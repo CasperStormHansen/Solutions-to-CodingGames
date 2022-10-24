@@ -144,3 +144,5 @@ class Solution
         }
     }
 }
+
+// https://www.codingame.com/training/medium/blunder-episode-1
